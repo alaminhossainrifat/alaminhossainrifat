@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Al Amin Hossain Rifat</h1>
-<h3 align="center">Design and code nicely simple things, And I love what I do</h3>
+<h3 align="center">Pursuing Computer Science and Engineering at Presidency University | Focused on Java, Spring Boot, and Web Development.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alaminhossainrifat&label=Profile%20views&color=0e75b6&style=flat" alt="alaminhossainrifat" /> </p> -->
 
