@@ -1,29 +1,65 @@
-<h1 align="center">Hi 👋, I'm Md. Al Amin Hossain Rifat</h1>
-<h3 align="center">Pursuing Computer Science and Engineering at Presidency University | Focused on Java, Spring Boot, and Web Development.</h3>
+# 👋 Hi, I'm Md. Al Amin Hossain Rifat
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alaminhossainrifat&label=Profile%20views&color=0e75b6&style=flat" alt="alaminhossainrifat" /> </p> -->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Java+Full+Stack+Developer;Code.+Create.+Solve.)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on **E-Commerce Implementation with Spring Boot**
+🔧 A passionate **Java Developer** crafting smart solutions and creative code.  
+📍 Based in Dhaka, Bangladesh | 🌐 Open for collaboration
 
-- 🌱 I’m currently learning **Full-Stack(MERN),Java With Spring Boot**
+---
 
-- 📄 Know about my experiences [https://dev-al-amin-hossain-rifat.pantheonsite.io/](https://dev-al-amin-hossain-rifat.pantheonsite.io/)
+## 🔍 About Me
 
-- 💬 Ask me about **Programming Language**
+Pursuing Computer Science and Engineering Presidency University | Java, Spring Boot | Web Development <br> 
+I enjoy working with open-source communities and contributing back to the tools I use.
 
-- 📫 How to reach me **alaminhossainrif@gmail.com**
+🧠 Areas of Interest:
+- 🧱 Full-stack Development
+- 🤖 AI & Machine Learning
+- ☁ Cloud Infrastructure
+- 🎯 Problem Solving & Algorithms
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/alaminhossainrifat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="alaminhossainrifat" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/alaminhossainrifat/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alaminhossainrifat" height="30" width="40" /></a>
-<a href="https://fb.com/rif.420.at" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rif.420.at" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/alaminhossainrifat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alaminhossainrifat" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+## ⚙ Tech Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alaminhossainrifat&show_icons=true&locale=en&layout=compact" alt="alaminhossainrifat" /></p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,py,spring,react,docker,aws,git,wordpress" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alaminhossainrifat&show_icons=true&locale=en" alt="alaminhossainrifat" /></p>
+---
+
+## 📊 GitHub Stats
+
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alaminhossainrifat&theme=dracula)](https://github.com/alaminhossainrifat/github-readme-activity-graph)
+
+[![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alaminhossainrifat&layout=compact&theme=radical)](https://github.com/alaminhossainrifat)
+
+
+---
+### [Personal Portfolio Site](https://alaminhossainrifat.github.io/Portfolio)
+> My personal website built with HTML, CSS and Java Script – fully responsive and animated.
+
+
+## 📫 Let’s Connect!
+
+<a href="mailto:alaminhossainrif@gmail.com"><img src="https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=email" alt="email"/></a>
+<a href="https://www.linkedin.com/in/alaminhossainrifat/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="linkedin"/></a>
+<a href="https://github.com/alaminhossainrifat">
+  <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&color=blue" alt="GitHub" />
+</a>
+<a href="https://leetcode.com/alaminhossainrifat">
+  <img src="https://img.shields.io/badge/-LeetCode-green?style=for-the-badge&logo=leetcode&color=orange" alt="LeetCode" />
+</a>
+
+<!-- ---
+
+## 📸 Latest Screenshot / Project Preview
+
+![My Awesome Project](https://via.placeholder.com/600x300.png?text=Preview+Image)  
+*Optional screenshot of your latest project or portfolio site*
+
+--- -->
+
+## ❤️ Thanks for stopping by!
